@@ -1,15 +1,15 @@
 <div align="center">
 
 # Guilherme Araujo Coelho
-### Estudante de Ciência da Computação na PUC-Goiáse desenvolvedor de Software & focado em backend
+### Desenvolvedor de Software & Estudante de Ciência da Computação
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Foco+em+Desenvolvimento+Backend;Node.js+%7C+Express+%7C+MySQL;Arquitetura+de+APIs+REST+%26+Estruturas+de+Dados)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/guiz-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:guilhermebr1618@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
