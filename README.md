@@ -1,7 +1,7 @@
 <div align="center">
 
 # Guilherme Araujo Coelho
-### Desenvolvedor de Software & Estudante de Ciência da Computação
+### Estudante de Ciência da Computação na PUC-Goiáse desenvolvedor de Software & focado em backend
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Foco+em+Desenvolvimento+Backend;Node.js+%7C+Express+%7C+MySQL;Arquitetura+de+APIs+REST+%26+Estruturas+de+Dados)](https://git.io/typing-svg)
 
